@@ -34,8 +34,6 @@ f(5) =
 ![image](https://user-images.githubusercontent.com/82355658/209468892-cf042405-88fc-43db-98c0-d4b5a38a0684.png)
 ![image](https://user-images.githubusercontent.com/82355658/209468894-0fd0b1c0-e01e-40f0-bc3f-c35b9a31d70d.png)
 
-
-
 ### Guru
 
 ![image](https://user-images.githubusercontent.com/82355658/209468280-d423553f-7645-4dec-b8d3-549343eef202.png)
