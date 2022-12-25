@@ -42,9 +42,18 @@ f(5) =
 ![image](https://user-images.githubusercontent.com/82355658/209468285-0d2177a3-8ecb-4caa-87d8-4c5d9f7184f7.png)
 ![image](https://user-images.githubusercontent.com/82355658/209468291-486ed8c4-e35c-4fb6-a45a-90f5fe1204e8.png)
 ![image](https://user-images.githubusercontent.com/82355658/209468295-0d3c815f-5f62-4835-b416-d0238db0b1dd.png)
+![image](https://user-images.githubusercontent.com/82355658/209469283-d1a8c573-55d3-42dd-ab9a-3ca6d4d6dba3.png)
+
+![image](https://user-images.githubusercontent.com/82355658/209469278-20ce0334-ac44-43ad-9be5-1a5255b0f3f7.png)
+
 
 
 ### Murid
+![image](https://user-images.githubusercontent.com/82355658/209469647-6a825e3a-901e-4a38-a88b-6fdf4c67879d.png)
+![image](https://user-images.githubusercontent.com/82355658/209469966-80eb6280-6873-4f47-89b7-9022fd9a4275.png)
+
+![image](https://user-images.githubusercontent.com/82355658/209469960-d5e38054-24d5-499e-87c5-7524df9a9c33.png)
+![image](https://user-images.githubusercontent.com/82355658/209469962-dbfef9f3-6c0e-4718-9282-425ecb602157.png)
 
 
 
